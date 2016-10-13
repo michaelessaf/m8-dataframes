@@ -3,13 +3,13 @@
 
 # Create a vector of everything you ate for breakfast
 
-
+breakfast <- c(yogurt, coffee)
 # Create a vector of everything you ate for lunch
 
-
+lunch <- (pesto roll)
 # Create a list `meals` that has contains your breakfast and lunch
 
-
+list
 # Add a `dinner` index to your `meals` list that has what you plan to eat for dinner
 
 
